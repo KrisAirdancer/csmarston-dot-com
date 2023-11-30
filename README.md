@@ -1,2 +1,5 @@
 # csmarston-dot-com
-My portfolio site.
+
+My personal portfolio site.
+
+Live at [csmarston.com](https://csmarston.com)
